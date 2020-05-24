@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.chris.todoapp.web.dto.HelloResponseDtoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-24T09:24:30" hostname="ChrisRhee-PC" time="0.139">
+  <properties/>
+  <testcase name="lombok_test" classname="com.chris.todoapp.web.dto.HelloResponseDtoTest" time="0.139"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
