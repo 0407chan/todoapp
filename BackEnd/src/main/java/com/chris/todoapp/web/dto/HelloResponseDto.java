@@ -3,9 +3,11 @@ package com.chris.todoapp.web.dto;
 import lombok.Getter;
 import lombok.NonNull;
 import lombok.RequiredArgsConstructor;
+import lombok.ToString;
 
 @Getter
 @RequiredArgsConstructor
+@ToString
 public class HelloResponseDto {
 
     private final String name;

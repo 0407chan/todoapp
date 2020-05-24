@@ -25,5 +25,10 @@ repositories {
 dependencies {
     compile('org.springframework.boot:spring-boot-starter-web')
     compile('org.projectlombok:lombok')
+
+    // jap 적용
+    compile('org.springframework.boot:spring-boot-starter-data-jpa')
+    // 인메모리 관계형 데이터, jpa 테스트 로컬환경에서의구동에서 사용
+    compile('com.h2database:h2')
     testCompile('org.springframework.boot:spring-boot-starter-test')
 }
